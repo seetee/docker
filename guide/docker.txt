@@ -1,0 +1,78 @@
+Vi installerar Docker och drar igång vår första container.
+
+    * Se till att du har installerat VirtualBox.
+    * Gå till Docker.com och installera Docker Toolbox for older Windows systems 
+      (om du kör Windows 10 Home, eller sämre).
+    * Starta om datorn.
+    * På drupal.com finns den här docker-compose-filen, gå till den och välj Download. 
+      Ladda ned till en ny katalog. Byt namn på filen till docker-compose.yml
+    * Starta Docker Quickstart Terminal, navigera till den nya katalogen och kör kommandot:
+
+docker-compose -f drupal.yml up -d
+
+Nu borde localhost:8080 fungera, men om Windows inte hanterat det rätt så får 
+du kolla upp din containers IP, med kommandot;
+
+docker-machine ip
+
+ 
+
+Nu kan du enkelt stänga och starta dina containers med kommandona:
+
+docker-compose -f drupal.yml start
+
+docker-compose -f drupal.yml stop
+
+
+
+
+
+OS?
+
+
+> Win 10 Pro, Linux, Mac
+
+Installera Docker
+
+
+< Win 10 Home
+
+Installera VirtualBox
+
+Installera Docker Toolbox for older Windows Systems
+
+
+Starta om datorn 
+
+Vilken CMS vill du köra? 
+
+
+- Drupal 
+
+Tanka ned docker-compose.yml-filen från GitHub 
+
+Starta Docker Quickstart Terminal, navigera till katalogen där du sparat ned filen 
+
+Kör kommandot docker-compose up
+
+Os? 
+
+
+< Win 10 Home
+
+docker-machine ip
+
+Gå till containerns_ip:8080
+
+
+> Win 10 Pro, Linux, Mac
+
+Gå till localhost: 8080
+
+
+Du kan nu starta och stoppa dina containers med hjälp av 
+docker-compose start
+docker-compose stop 
+
+
+
