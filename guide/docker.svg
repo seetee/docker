@@ -3464,9 +3464,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="3344.1132"
-     inkscape:cy="6788.6182"
+     inkscape:zoom="0.04375"
+     inkscape:cx="4948.8875"
+     inkscape:cy="2888.4785"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -3575,55 +3575,53 @@
       </g>
     </g>
     <g
-       id="g2663"
-       transform="translate(-58.089663,-5.3571429)"
+       id="g4641"
+       transform="matrix(1.0948076,0,0,0.98931014,3340.8755,-1882.2296)"
        inkscape:export-xdpi="48"
        inkscape:export-ydpi="48">
-      <g
-         transform="matrix(1.0948076,0,0,0.98931014,3398.9652,-1876.8725)"
-         id="g4641">
-        <path
-           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)"
-           id="path4643"
-           sodipodi:type="arc"
-           sodipodi:cx="-1869.9999"
-           sodipodi:cy="318.07642"
-           sodipodi:rx="213.66203"
-           sodipodi:ry="126.51922"
-           sodipodi:start="0"
-           sodipodi:end="6.2582096"
-           sodipodi:open="true"
-           d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
-        <path
-           d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
-           sodipodi:open="true"
-           sodipodi:end="6.2582096"
-           sodipodi:start="0"
-           sodipodi:ry="126.51922"
-           sodipodi:rx="213.66203"
-           sodipodi:cy="304.07642"
-           sodipodi:cx="-1875.9999"
-           sodipodi:type="arc"
-           id="path4645"
-           style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <text
-         id="text3372"
-         y="-1581.1582"
-         x="1162.4855"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="-1581.1582"
-           x="1162.4855"
-           sodipodi:role="line"
-           id="tspan8665"
-           style="font-size:32.97899246px;line-height:1.25">Installera senastse </tspan><tspan
-           id="tspan2655"
-           y="-1539.9344"
-           x="1162.4855"
-           sodipodi:role="line"
-           style="font-size:32.97899246px;line-height:1.25">versionen av VirtualBox</tspan></text>
+      <path
+         d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
+         sodipodi:open="true"
+         sodipodi:end="6.2582096"
+         sodipodi:start="0"
+         sodipodi:ry="126.51922"
+         sodipodi:rx="213.66203"
+         sodipodi:cy="318.07642"
+         sodipodi:cx="-1869.9999"
+         sodipodi:type="arc"
+         id="path4643"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)" />
+      <path
+         style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4645"
+         sodipodi:type="arc"
+         sodipodi:cx="-1875.9999"
+         sodipodi:cy="304.07642"
+         sodipodi:rx="213.66203"
+         sodipodi:ry="126.51922"
+         sodipodi:start="0"
+         sodipodi:end="6.2582096"
+         sodipodi:open="true"
+         d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1104.3958"
+       y="-1586.5154"
+       id="text3372"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48"><tspan
+         style="font-size:32.97899246px;line-height:1.25"
+         id="tspan8665"
+         sodipodi:role="line"
+         x="1104.3958"
+         y="-1586.5154">Installera senaste </tspan><tspan
+         style="font-size:32.97899246px;line-height:1.25"
+         sodipodi:role="line"
+         x="1104.3958"
+         y="-1545.2916"
+         id="tspan2655">versionen av VirtualBox</tspan></text>
     <g
        id="g4883"
        transform="matrix(1.7905294,0,0,1.7905294,-225.68298,1936.6542)"
@@ -8139,9 +8137,9 @@
          transform="translate(141.42857,597.05357)"
          id="g2579">
         <g
-           id="g2514"
-           transform="matrix(1.2144701,0,0,0.98931014,1301.2516,-82.22962)">
+           id="g2549">
           <path
+             transform="matrix(1.2144701,0,0,0.98931014,1301.2516,-82.22962)"
              d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
              sodipodi:open="true"
              sodipodi:end="6.2582096"
@@ -8154,39 +8152,39 @@
              id="path2510"
              style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)" />
           <path
-             style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:9.19678307;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path2512"
              sodipodi:type="arc"
-             sodipodi:cx="-1875.9999"
-             sodipodi:cy="304.07642"
-             sodipodi:rx="213.66203"
-             sodipodi:ry="126.51922"
+             sodipodi:cx="-977.09418"
+             sodipodi:cy="218.59627"
+             sodipodi:rx="259.48615"
+             sodipodi:ry="125.16675"
              sodipodi:start="0"
              sodipodi:end="6.2582096"
              sodipodi:open="true"
-             d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:14.51340675px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2094506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-1180.9374"
-           y="178.61336"
-           id="text2518"><tspan
-             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px"
-             sodipodi:role="line"
-             x="-1180.9374"
+             d="M -717.60803,218.59627 A 259.48615,125.16675 0 0 1 -975.47398,343.76058 259.48615,125.16675 0 0 1 -1236.5601,220.15929 259.48615,125.16675 0 0 1 -981.95453,93.451478 259.48615,125.16675 0 0 1 -717.68896,215.47046" />
+          <text
+             id="text2518"
              y="178.61336"
-             id="tspan2533">Kör kommandot: </tspan><tspan
-             id="tspan2623"
-             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
-             sodipodi:role="line"
-             x="-1180.9374"
-             y="228.47144">docker-compose up</tspan><tspan
-             id="tspan2625"
-             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px"
-             sodipodi:role="line"
-             x="-1180.9374"
-             y="278.32953">i katalogen wordpress</tspan></text>
+             x="-1154.6874"
+             style="font-style:normal;font-weight:normal;font-size:14.51340675px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2094506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               id="tspan2533"
+               y="178.61336"
+               x="-1154.6874"
+               sodipodi:role="line"
+               style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px">Kör kommandot: </tspan><tspan
+               y="228.47144"
+               x="-1154.6874"
+               sodipodi:role="line"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.88646698px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1.2094506px"
+               id="tspan2623">docker-compose up</tspan><tspan
+               y="278.32953"
+               x="-1154.6874"
+               sodipodi:role="line"
+               style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px"
+               id="tspan2625">i katalogen drupal</tspan></text>
+        </g>
       </g>
     </g>
     <g
