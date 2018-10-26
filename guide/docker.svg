@@ -3465,10 +3465,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1690.1083"
-     inkscape:cy="5100.0232"
+     inkscape:cx="2177.7614"
+     inkscape:cy="3216.886"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1600"
@@ -8120,7 +8120,7 @@
     </g>
     <g
        id="g2821"
-       transform="translate(10.454767,1808.2593)">
+       transform="translate(10.454767,2421.3843)">
       <g
          id="g2907"
          transform="translate(-35.625,33.75)">
@@ -8159,79 +8159,66 @@
       </g>
     </g>
     <g
-       id="g2579"
-       transform="translate(141.42857,-16.071429)">
+       id="g2635">
       <g
-         transform="matrix(1.2144701,0,0,0.98931014,1301.2516,-82.22962)"
-         id="g2514">
-        <path
-           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)"
-           id="path2510"
-           sodipodi:type="arc"
-           sodipodi:cx="-1869.9999"
-           sodipodi:cy="318.07642"
-           sodipodi:rx="213.66203"
-           sodipodi:ry="126.51922"
-           sodipodi:start="0"
-           sodipodi:end="6.2582096"
-           sodipodi:open="true"
-           d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
-        <path
-           d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
-           sodipodi:open="true"
-           sodipodi:end="6.2582096"
-           sodipodi:start="0"
-           sodipodi:ry="126.51922"
-           sodipodi:rx="213.66203"
-           sodipodi:cy="304.07642"
-           sodipodi:cx="-1875.9999"
-           sodipodi:type="arc"
-           id="path2512"
-           style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         transform="translate(141.42857,597.05357)"
+         id="g2579">
+        <g
+           id="g2514"
+           transform="matrix(1.2144701,0,0,0.98931014,1301.2516,-82.22962)">
+          <path
+             d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
+             sodipodi:open="true"
+             sodipodi:end="6.2582096"
+             sodipodi:start="0"
+             sodipodi:ry="126.51922"
+             sodipodi:rx="213.66203"
+             sodipodi:cy="318.07642"
+             sodipodi:cx="-1869.9999"
+             sodipodi:type="arc"
+             id="path2510"
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)" />
+          <path
+             style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path2512"
+             sodipodi:type="arc"
+             sodipodi:cx="-1875.9999"
+             sodipodi:cy="304.07642"
+             sodipodi:rx="213.66203"
+             sodipodi:ry="126.51922"
+             sodipodi:start="0"
+             sodipodi:end="6.2582096"
+             sodipodi:open="true"
+             d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.51340675px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2094506px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1180.9374"
+           y="178.61336"
+           id="text2518"><tspan
+             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px"
+             sodipodi:role="line"
+             x="-1180.9374"
+             y="178.61336"
+             id="tspan2533">Kör kommandot: </tspan><tspan
+             id="tspan2623"
+             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+             sodipodi:role="line"
+             x="-1180.9374"
+             y="228.47144">docker-compose up</tspan><tspan
+             id="tspan2625"
+             style="font-size:39.88646698px;line-height:1.25;stroke-width:1.2094506px"
+             sodipodi:role="line"
+             x="-1180.9374"
+             y="278.32953">i katalogen wordpress</tspan></text>
       </g>
-      <text
-         id="text2518"
-         y="189.18506"
-         x="-1175.5875"
-         style="font-style:normal;font-weight:normal;font-size:15.45185566px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28765464px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="189.18506"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px"
-           id="tspan2516">Ladda ned filen </tspan><tspan
-           id="tspan2527"
-           y="242.267"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px">docker-compose.yml</tspan><tspan
-           id="tspan2535"
-           y="272.63339"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:17.5px;line-height:1.25;stroke-width:1.28765464px">https://github.com/seetee/docker/releases/latest</tspan><tspan
-           id="tspan2529"
-           y="282.98743"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:17.5px;line-height:1.25;stroke-width:1.28765464px" /><tspan
-           id="tspan2531"
-           y="282.98743"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px" /><tspan
-           id="tspan2533"
-           y="282.98743"
-           x="-1175.5875"
-           sodipodi:role="line"
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px" /></text>
     </g>
     <g
-       id="g2567"
-       transform="translate(2132.1429,-318.75)">
+       id="g2601">
       <g
          id="g2541"
-         transform="matrix(1.2144701,0,0,0.98931014,1464.6445,220.44895)">
+         transform="matrix(1.2144701,0,0,0.98931014,3596.7874,514.82395)">
         <path
            d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
            sodipodi:open="true"
@@ -8259,40 +8246,92 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15.45185566px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28765464px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-1012.1946"
-         y="491.86362"
+         style="font-style:normal;font-weight:normal;font-size:14.27040577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18920052px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1118.4474"
+         y="778.20312"
          id="text2555"><tspan
-           id="tspan2543"
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px"
+           style="font-size:39.21863556px;line-height:1.25;stroke-width:1.18920052px"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="491.86362">Ladda ned filen </tspan><tspan
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px"
+           x="1118.4474"
+           y="778.20312"
+           id="tspan2553">Kör kommandot: </tspan><tspan
+           id="tspan2590"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.21863556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1.18920052px"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="544.94556"
-           id="tspan2545">docker-compose.yml</tspan><tspan
-           style="font-size:17.5px;line-height:1.25;stroke-width:1.28765464px"
+           x="1118.4474"
+           y="827.22644">docker-compose up</tspan><tspan
+           id="tspan2592"
+           style="font-size:39.21863556px;line-height:1.25;stroke-width:1.18920052px"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="575.31195"
-           id="tspan2547">https://github.com/seetee/docker/releases/latest</tspan><tspan
-           style="font-size:17.5px;line-height:1.25;stroke-width:1.28765464px"
+           x="1118.4474"
+           y="876.24969">i katalogen wordpress</tspan></text>
+    </g>
+    <g
+       id="g2568">
+      <g
+         transform="matrix(1.2144701,0,0,0.98931014,2528.5511,-56.22313)"
+         id="g2515">
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4633)"
+           id="path2511"
+           sodipodi:type="arc"
+           sodipodi:cx="-1869.9999"
+           sodipodi:cy="318.07642"
+           sodipodi:rx="213.66203"
+           sodipodi:ry="126.51922"
+           sodipodi:start="0"
+           sodipodi:end="6.2582096"
+           sodipodi:open="true"
+           d="m -1656.3378,318.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745" />
+        <path
+           d="m -1662.3378,304.07642 a 213.66203,126.51922 0 0 1 -212.328,126.51675 213.66203,126.51922 0 0 1 -214.9795,-124.93684 213.66203,126.51922 0 0 1 209.6434,-128.07694 213.66203,126.51922 0 0 1 217.5974,123.33745"
+           sodipodi:open="true"
+           sodipodi:end="6.2582096"
+           sodipodi:start="0"
+           sodipodi:ry="126.51922"
+           sodipodi:rx="213.66203"
+           sodipodi:cy="304.07642"
+           sodipodi:cx="-1875.9999"
+           sodipodi:type="arc"
+           id="path2513"
+           style="opacity:1;fill:#a8b0c3;fill-opacity:1;fill-rule:nonzero;stroke:#8490ab;stroke-width:8.39027691;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         id="text2530"
+         y="219.31265"
+         x="39.641914"
+         style="font-style:normal;font-weight:normal;font-size:14.26019764px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18834984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2519"
+           y="219.31265"
+           x="39.641914"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="585.66602"
-           id="tspan2549" /><tspan
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px"
+           style="font-size:39.19057846px;line-height:1.25;stroke-width:1.18834984px">Ladda ned och packa </tspan><tspan
+           id="tspan2554"
+           y="268.30087"
+           x="39.641914"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="585.66602"
-           id="tspan2551" /><tspan
-           style="font-size:42.46555328px;line-height:1.25;stroke-width:1.28765464px"
+           style="font-size:39.19057846px;line-height:1.25;stroke-width:1.18834984px">upp filen docker-1.0.zip</tspan><tspan
+           id="tspan2521"
+           y="298.42465"
+           x="39.641914"
            sodipodi:role="line"
-           x="-1012.1946"
-           y="585.66602"
-           id="tspan2553" /></text>
+           style="font-size:18.45758629px;line-height:1.25;stroke-width:1.18834984px">https://github.com/seetee/docker/releases/latest</tspan><tspan
+           id="tspan2523"
+           y="308.76492"
+           x="39.641914"
+           sodipodi:role="line"
+           style="font-size:16.15038681px;line-height:1.25;stroke-width:1.18834984px" /><tspan
+           id="tspan2525"
+           y="308.76492"
+           x="39.641914"
+           sodipodi:role="line"
+           style="font-size:39.19057846px;line-height:1.25;stroke-width:1.18834984px" /><tspan
+           id="tspan2528"
+           y="308.76492"
+           x="39.641914"
+           sodipodi:role="line"
+           style="font-size:39.19057846px;line-height:1.25;stroke-width:1.18834984px" /></text>
     </g>
   </g>
   <g
@@ -8621,7 +8660,7 @@
     </g>
     <g
        id="g2880"
-       transform="translate(0,-67.767857)">
+       transform="translate(0,545.35714)">
       <line
          style="fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:15.44076633;stroke-miterlimit:10;stroke-opacity:1"
          y2="270.53174"
@@ -8665,7 +8704,7 @@
     </g>
     <g
        id="g2870"
-       transform="translate(166.875,-69.107143)">
+       transform="translate(166.875,544.01786)">
       <g
          transform="matrix(-1,0,0,1,-799.42727,2.6785714)"
          id="g2863">
@@ -8705,5 +8744,71 @@
            height="181.59486"
            x="1585.7142"
            y="2873.5217" /></flowRegion><flowPara
-         id="flowPara2859" /></flowRoot>  </g>
+         id="flowPara2859" /></flowRoot>    <g
+       id="g2538"
+       transform="matrix(1.7417341,0,0,1.7417341,204.13826,432.73746)"
+       style="opacity:0.6">
+      <line
+         id="line2534"
+         y1="1.9170001"
+         stroke-miterlimit="10"
+         x2="23.871"
+         x1="23.871"
+         y2="125.95"
+         style="stroke:#000000;stroke-width:6;stroke-miterlimit:10" />
+      <polygon
+         id="polygon2536"
+         points="24.885,149 42.292,125.05 3.969,125.05 " />
+    </g>
+    <g
+       id="g2643"
+       transform="translate(32.142857,1845.5358)">
+      <line
+         id="line2637"
+         y1="-340.18253"
+         stroke-miterlimit="10"
+         x2="660.97223"
+         x1="1296.2402"
+         y2="-340.18253"
+         style="fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:21.78302574;stroke-miterlimit:10;stroke-opacity:1" />
+      <polygon
+         transform="matrix(-2.573461,0,0,2.573461,983.42688,-403.75726)"
+         id="polygon2639"
+         points="124.4,6.284 124.4,44.606 148.35,23.69 "
+         style="fill:#646464;fill-opacity:1" />
+      <line
+         style="fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:18.50550652;stroke-miterlimit:10;stroke-opacity:1"
+         y2="-798.66486"
+         x1="1296.2402"
+         x2="1296.2402"
+         stroke-miterlimit="10"
+         y1="-340.18253"
+         id="line2641" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,451.07547,1845.5358)"
+       id="g2651">
+      <line
+         style="fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:21.78302574;stroke-miterlimit:10;stroke-opacity:1"
+         y2="-340.18253"
+         x1="1296.2402"
+         x2="660.97223"
+         stroke-miterlimit="10"
+         y1="-340.18253"
+         id="line2645" />
+      <polygon
+         style="fill:#646464;fill-opacity:1"
+         points="148.35,23.69 124.4,6.284 124.4,44.606 "
+         id="polygon2647"
+         transform="matrix(-2.573461,0,0,2.573461,983.42688,-403.75726)" />
+      <line
+         id="line2649"
+         y1="-340.18253"
+         stroke-miterlimit="10"
+         x2="1296.2402"
+         x1="1296.2402"
+         y2="-798.66486"
+         style="fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:18.50550652;stroke-miterlimit:10;stroke-opacity:1" />
+    </g>
+  </g>
 </svg>
