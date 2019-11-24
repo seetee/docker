@@ -53,6 +53,4 @@ services:
       - MYSQL_DATABASE=drupal8
       - MYSQL_USER=mariadb
       - MYSQL_PASSWORD=mariadb
-    ports:
-      - "8082:3306"
     restart: always
