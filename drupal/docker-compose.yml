@@ -24,15 +24,15 @@ services:
       - type: bind
         source: ./themes
         target: /var/www/html/themes
-      - type: bind
-        source: ./modules
-        target: /var/www/html/modules
-      - type: bind
-        source: ./profiles
-        target: /var/www/html/profiles
-      - type: bind
-        source: ./sites
-        target: /var/www/html/sites        
+#      - type: bind
+#        source: ./modules
+#        target: /var/www/html/modules
+#      - type: bind
+#        source: ./profiles
+#        target: /var/www/html/profiles
+#      - type: bind
+#        source: ./sites
+#        target: /var/www/html/sites        
 
   adminer:
     container_name: adminer
