@@ -6,8 +6,8 @@
 # SQL Server Name: mariadb
 # SQL Root Password: mariadb
 # SQL Database: drupal8
-# SQL User: mariadb
-# SQL Password: mariadb
+# SQL User: drupal8
+# SQL Password: drupal8
 #
 
 version: '3.2'
@@ -42,8 +42,8 @@ services:
       - "8081:8080"
     environment: 
       - ADMINER_DEFAULT_SERVER=mariadb
-      - ADMINER_DESIGN='nette'
-      - ADMINER_PLUGINS='tables-filter tinymce'
+#      - ADMINER_DESIGN='nette'
+#      - ADMINER_PLUGINS='tables-filter tinymce'
      
   mariadb:
     image: mariadb
@@ -55,6 +55,6 @@ services:
     environment:
       - MYSQL_ROOT_PASSWORD=mariadb
       - MYSQL_DATABASE=drupal8
-      - MYSQL_USER=mariadb
-      - MYSQL_PASSWORD=mariadb
+      - MYSQL_USER=drupal8
+      - MYSQL_PASSWORD=drupal8
     restart: always
