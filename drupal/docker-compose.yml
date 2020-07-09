@@ -24,15 +24,6 @@ services:
       - type: bind
         source: ./themes
         target: /var/www/html/themes
-#      - type: bind
-#        source: ./modules
-#        target: /var/www/html/modules
-#      - type: bind
-#        source: ./profiles
-#        target: /var/www/html/profiles
-#      - type: bind
-#        source: ./sites
-#        target: /var/www/html/sites        
 
   adminer:
     container_name: adminer
@@ -42,16 +33,14 @@ services:
       - "8081:8080"
     environment: 
       - ADMINER_DEFAULT_SERVER=mariadb
-#      - ADMINER_DESIGN='nette'
-#      - ADMINER_PLUGINS='tables-filter tinymce'
      
   mariadb:
     image: mariadb
     container_name: mariadb
     stop_grace_period: 30s
-    working_dir: /application
+    working_dir: /host
     volumes:
-      - ./db:/application
+      - ./db:/host
     environment:
       - MYSQL_ROOT_PASSWORD=mariadb
       - MYSQL_DATABASE=drupal8
