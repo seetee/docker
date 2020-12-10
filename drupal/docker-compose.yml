@@ -24,6 +24,9 @@ services:
       - type: bind
         source: ./themes
         target: /var/www/html/themes
+      - type: bind
+        source: ./modules
+        target: /var/www/html/modules
 
   adminer:
     container_name: adminer
