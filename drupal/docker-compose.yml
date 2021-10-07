@@ -1,13 +1,13 @@
-# Drupal8, MariaDB, Adminer
+# Drupal9, MariaDB, Adminer
 #
 # Access via "http://localhost:8080"
 #   (or "http://$(docker-machine ip):8080" if using docker-machine)
 #
-# SQL Server Name: mariadb
+# SQL Server Name: mariadb_d9
 # SQL Root Password: mariadb
-# SQL Database: drupal8
-# SQL User: drupal8
-# SQL Password: drupal8
+# SQL Database: drupal9
+# SQL User: drupal9
+# SQL Password: drupal9
 #
 
 version: '3.2'
@@ -15,8 +15,8 @@ version: '3.2'
 services:
 
   drupal:
-    image: drupal:8-apache
-    container_name: drupal
+    image: drupal:9-apache
+    container_name: drupal9
     ports:
       - "8080:80"
     restart: always
@@ -29,7 +29,7 @@ services:
         target: /var/www/html/modules
 
   adminer:
-    container_name: adminer
+    container_name: adminer_d9
     image: adminer
     restart: always
     ports:
@@ -39,14 +39,14 @@ services:
      
   mariadb:
     image: mariadb
-    container_name: mariadb
+    container_name: mariadb_d9
     stop_grace_period: 30s
     working_dir: /host
     volumes:
       - ./db:/host
     environment:
       - MYSQL_ROOT_PASSWORD=mariadb
-      - MYSQL_DATABASE=drupal8
-      - MYSQL_USER=drupal8
-      - MYSQL_PASSWORD=drupal8
+      - MYSQL_DATABASE=drupal9
+      - MYSQL_USER=drupal9
+      - MYSQL_PASSWORD=drupal9
     restart: always
