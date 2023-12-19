@@ -1,4 +1,4 @@
-# Drupal9, MariaDB, Adminer
+# Drupal10, MariaDB, Adminer
 #
 # Access via "http://localhost:8080"
 #   (or "http://$(docker-machine ip):8080" if using docker-machine)
