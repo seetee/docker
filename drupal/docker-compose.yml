@@ -3,11 +3,11 @@
 # Access via "http://localhost:8080"
 #   (or "http://$(docker-machine ip):8080" if using docker-machine)
 #
-# SQL Server Name: mariadb_d9
+# SQL Server Name: mariadb_d10
 # SQL Root Password: mariadb
-# SQL Database: drupal9
-# SQL User: drupal9
-# SQL Password: drupal9
+# SQL Database: drupal10
+# SQL User: drupal10
+# SQL Password: drupal10
 #
 
 version: '3.2'
