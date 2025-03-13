@@ -1,20 +1,20 @@
-# Drupal10, MariaDB, Adminer
+# Drupal11, MariaDB, Adminer
 #
 # Access via "http://localhost:8080"
 #   (or "http://$(docker-machine ip):8080" if using docker-machine)
 #
-# SQL Server Name: mariadb_d10
+# SQL Server Name: mariadb_d11
 # SQL Root Password: mariadb
-# SQL Database: drupal10
-# SQL User: drupal10
-# SQL Password: drupal10
+# SQL Database: drupal11
+# SQL User: drupal11
+# SQL Password: drupal11
 #
 
 services:
 
   drupal:
-    image: drupal:10-apache
-    container_name: drupal10
+    image: drupal:11-apache
+    container_name: drupal11
     ports:
       - "8080:80"
     restart: always
@@ -27,24 +27,24 @@ services:
         target: /var/www/html/modules
 
   adminer:
-    container_name: adminer_d10
+    container_name: adminer_d11
     image: adminer
     restart: always
     ports:
       - "8081:8080"
     environment: 
-      - ADMINER_DEFAULT_SERVER=mariadb_d10
+      - ADMINER_DEFAULT_SERVER=mariadb_d11
      
   mariadb:
     image: mariadb
-    container_name: mariadb_d10
+    container_name: mariadb_d11
     stop_grace_period: 30s
     working_dir: /host
     volumes:
       - ./db:/host
     environment:
       - MYSQL_ROOT_PASSWORD=mariadb
-      - MYSQL_DATABASE=drupal10
-      - MYSQL_USER=drupal10
-      - MYSQL_PASSWORD=drupal10
+      - MYSQL_DATABASE=drupal11
+      - MYSQL_USER=drupal11
+      - MYSQL_PASSWORD=drupal11
     restart: always
